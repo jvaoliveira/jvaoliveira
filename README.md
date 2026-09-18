@@ -1,4 +1,4 @@
-<img width="721" height="377" alt="Gif" src="https://github.com/user-attachments/assets/bcd5d80e-748b-457c-a30d-be863c59d48d" />
+<img width="723" height="407" alt="gifreadme1" src="https://github.com/user-attachments/assets/1ab343b6-91cb-4fd7-b624-fbda32510354" />
 
 **Languages and Tools:**
 
